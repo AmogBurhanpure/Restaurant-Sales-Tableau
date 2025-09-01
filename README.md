@@ -47,6 +47,9 @@ ________________________________________________________________________________
 ### 📋 Sales Performance Analysis:
 
 This Tableau project analyzes sales data from an Italian restaurant to uncover key trends in revenue, customer behavior, and menu performance. The dashboard highlights peak sales hours, top-selling items, and customer segmentation insights. Credit card payments dominate, and returning customers contribute significantly more revenue. These insights can support better menu decisions, targeted marketing, and operational efficiency.
+
+ Developed by Amogsiddh Burhanpure 
+ 
 ____________________________________________________________________________________________________________________________________________
 
 ### Tools Used 
